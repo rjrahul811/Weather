@@ -5,7 +5,7 @@ import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 // import { CartProvider } from "react-use-cart";
 import "bootstrap/dist/css/bootstrap.min.css";
-
+// 17-07-2023
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(<App />);
 
